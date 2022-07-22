@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, My Name is Mubashir Nawaz
+
+
+![](https://komarev.com/ghpvc/?username=itxmubi&color=blueviolet&style=for-the-badge&label=Mubashir+Nawaz)
 
 
 - 🔭 I’m currently working on ... Flutter
