@@ -1,5 +1,5 @@
 ## Hi there 👋, My Name is Mubashir Nawaz
-### I am a flutter Developer with 2+ years of Experience
+### I am a flutter Developer with 3+ years of Experience
 
 
 <!--![](https://komarev.com/ghpvc/?username=itxmubi&color=blueviolet&style=for-the-badge&label=Mubashir+Nawaz) -->
@@ -20,11 +20,11 @@
 ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<!--
+
 ### Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itxmubi)
--->
+
 
 
 <h3 align="left">Languages and Tools Used:</h3>
