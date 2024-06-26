@@ -5,10 +5,11 @@
 <!--![](https://komarev.com/ghpvc/?username=itxmubi&color=blueviolet&style=for-the-badge&label=Mubashir+Nawaz) -->
 
 
-- 🔭 I’m currently working on ... [OMA Emirates](https://www.omaemirates.com/)
+- 🔭 I’m currently working in ... [OMA Emirates](https://www.omaemirates.com/)
 - 🤔 I’m Passionate about ... Flutter
 - 💬 Ask me about ... App Development, Flutter, Dart
 - 📫 How to reach me: ... devmubashirnawaaz@gmail.com
+- 🌱 I’m currently learning Python, DS & ALGO ,
 - 😄 Pronouns: ... He/him
   
 
