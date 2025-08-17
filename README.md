@@ -1,5 +1,5 @@
 ## Hi there 👋, My Name is Mubashir Nawaz
-### I am a flutter Developer with 4+ years of Experience
+### I am a flutter Developer with 5+ years of Experience
 
 
 <!--![](https://komarev.com/ghpvc/?username=itxmubi&color=blueviolet&style=for-the-badge&label=Mubashir+Nawaz) -->
@@ -9,7 +9,7 @@
 - 🤔 I’m Passionate about ... Flutter
 - 💬 Ask me about ... App Development, Flutter, Dart
 - 📫 How to reach me: ... devmubashirnawaaz@gmail.com
-- 🌱 I’m currently learning Python, DS & ALGO ,
+- 🌱 I’m currently learning Backed Node.JS , Mongo DB, MYSQL  ,
 - 😄 Pronouns: ... He/him
   
 
